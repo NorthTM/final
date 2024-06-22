@@ -16,7 +16,7 @@ $(function () {
     (function () {
         var strs = ["尖沙咀", "油麻地", "中环", "香港大学", "坚尼地城", "红磡", "铜锣湾", "太平山",];
         var colors = ["c3d59f", "dac0a7", "e2a9af", "e090b9", "3e0cb6d", "edb066", "f5926e", "f4727d",];
-        var urls = ["https://northtm.github.io/html-2/", 
+        var urls = ["https://baike.baidu.com/item/%E5%B0%96%E6%B2%99%E5%92%80/1230975?fr=ge_ala", 
                     "https://baike.baidu.com/item/%E6%B2%B9%E9%BA%BB%E5%9C%B0/4919757?fr=ge_ala", 
                     "https://baike.baidu.com/item/%E4%B8%AD%E7%8E%AF/2220250?fr=ge_ala", 
                     "https://baike.baidu.com/item/%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%AD%A6%E7%AB%99/5493123?fr=ge_ala",
